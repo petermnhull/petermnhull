@@ -1,8 +1,5 @@
 <h3>Hi, I'm Peter!</h3>
-<p>qdiowdoiqwnf</p>
-
-<h4>What I'm Working On</h4>
-<p>insoibojbert</p>
+<p>I'm Machine Learning and Backend Software Engineer, interested in biomaths, ethical machine learning and technology.</p>
 
 <h4>How to Reach Me</h4>
 
