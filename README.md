@@ -1,5 +1,5 @@
 <h3>Hi, I'm Peter!</h3>
-<p>I'm Machine Learning and Backend Software Engineer, interested in biomaths, ethical machine learning and technology.</p>
+<p>I'm a Software Engineer and recent Maths grad, interested in biomaths, ethical machine learning and technology.</p>
 
 <h4>How to Reach Me</h4>
 
