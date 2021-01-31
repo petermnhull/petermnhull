@@ -1,4 +1,4 @@
-<h3>Hello, I'm Peter!</h3>
+<h3>Hi, I'm Peter!</h3>
 <p>qdiowdoiqwnf</p>
 
 <h4>What I'm Working On</h4>
