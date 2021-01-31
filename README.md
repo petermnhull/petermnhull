@@ -1,16 +1,24 @@
-### Hi there 👋
+<h3>Hello, I'm Peter!</h3>
+<p>qdiowdoiqwnf</p>
 
-<!--
-**petermnhull/petermnhull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>What I'm Working On</h4>
+<p>insoibojbert</p>
 
-Here are some ideas to get you started:
+<h4>How to Reach Me</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+	<a href="mailto:petermnhull@gmail.com?subject=GitHub%20Contact"/>
+		<img src="email.png" width="35" height="35" />
+	</a>
+	<a href="https://www.linkedin.com/in/petermnhull/">
+		<img src="linkedin.png" width="35" height="35" />
+	<a/>
+</div>
+
+<!-- Stats -->
+<!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
+<div>
+	<h4>Stats</h4>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=petermnhull&count_private=true&show_icons=true&theme=default" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petermnhull&langs_count=5&theme=default" />
+</div>
