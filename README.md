@@ -1,5 +1,5 @@
 <h3>Hi, I'm Peter!</h3>
-<p>I'm a Software Engineer and recent Maths grad, interested in biomaths, ethical machine learning and language.</p>
+<p>I'm a Software Engineer and Maths grad, and this is where some of my projects live.</p>
 
 <h4>How to Reach Me</h4>
 
@@ -10,12 +10,4 @@
 	<a href="https://www.linkedin.com/in/petermnhull/">
 		<img src="linkedin.png" width="35" height="35" />
 	<a/>
-</div>
-
-<!-- Stats -->
-<!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
-<div>
-	<h4>Stats</h4>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=petermnhull&count_private=true&show_icons=true&theme=default" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petermnhull&langs_count=5&theme=default" />
 </div>
